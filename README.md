@@ -1,4 +1,4 @@
-![](https://github.com/arlidge/Dorky/blob/main/dorke.png)
+![](https://github.com/arlidge/Dorky/blob/main/dorky_logo.png)
 
 # Dorky
 Google Dorking from the command line
