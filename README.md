@@ -1,7 +1,7 @@
+![](https://github.com/arlidge/Dorky/blob/main/dorke.png)
+
 # Dorky
 Google Dorking from the command line
-
-![](https://github.com/arlidge/Dorky/blob/main/dorke.png)
 
 ## Features
 - Written in uncomplicated Go (Golang)
