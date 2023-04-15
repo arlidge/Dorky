@@ -3,10 +3,7 @@ Google Dorking from the command line
 
 ![](https://github.com/arlidge/Dorky/blob/main/dorke.png)
 
-# Dorky
-
 ## Features
-
 - Written in uncomplicated Go (Golang)
 - No installation necessary - just use the [binary](https://github.com/karan/joe#installation).
 - Stupidly [easy to use](https://github.com/karan/joe#usage)
