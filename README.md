@@ -5,9 +5,6 @@ Google Dorking from the command line
 
 # Dorky
 
-
-![](http://i.imgur.com/2tAksHG.gif)
-
 ## Features
 
 - Written in uncomplicated Go (Golang)
