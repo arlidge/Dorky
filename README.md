@@ -9,9 +9,9 @@ Google Dorking from the command line
 ```bash
 $ git clone https://github.com/arlidge/Dorky.git
 $ cd Dorky/
-python3 -m pip install termcolor
-python3 -m pip install googlesearch-python
-python3 -m pip install pyfiglet
+$ python3 -m pip install termcolor
+$ python3 -m pip install googlesearch-python
+$ python3 -m pip install pyfiglet
 $ chmod +x dorky.py
 $ python3 dorky.py
 ```
