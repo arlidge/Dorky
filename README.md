@@ -1,7 +1,7 @@
 # Dorky
 Google Dorking from the command line
 
-![](https://drive.google.com/file/d/1G-ckOUfY_u4z5oYmuztVOepGsGv0nei0/view?usp=sharing)
+![](https://github.com/arlidge/Dorky/blob/main/dorky.png)
 
 # Dorky
 
