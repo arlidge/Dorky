@@ -4,7 +4,7 @@
 Google Dorking from the command line
 
 
-### Option 2: Run the tool
+### Run Dorky
 
 ```bash
 $ git clone https://github.com/arlidge/Dorky.git
